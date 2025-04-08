@@ -1,4 +1,4 @@
-# Website on here: [ASL typing](https://asltyping.web.app)
+# Website on here: [ASL typing](https://echohands.web.app)
 ---
 This project uses google mediapipe hand landmark and onnx web runtime
 AI model was created using google colab, source code on here: [SourceCode](https://github.com/JuneKim0712/AI4ALL_ASL_AI)
