@@ -8,10 +8,11 @@ let tensor; // Reuse tensor object
 
 // Load the ONNX model and initialize the tensor
 const loadModel = async () => {
-    await sess.loadModel('new4_model.onnx');
+    await sess.loadModel('public/new4_model.onnx');
     tensor = new onnx.Tensor(new Float32Array(63), "float32", [1, 63]);
 };
 loadModel();
+
 
 // Get reference to prediction display
 const prediction = document.getElementById("predicted");
