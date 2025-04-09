@@ -370,4 +370,8 @@ document.getElementById("sendChat").addEventListener("click", async () => {
   } catch (err) {
     chatBox.innerHTML += `<p><b>Bot:</b> ❌ Error: ${err.message}</p>`;
   }
+
 });
+
+
+
