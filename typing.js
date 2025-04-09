@@ -1,5 +1,5 @@
 import { HandLandmarker, FilesetResolver } from "https://cdn.jsdelivr.net/npm/@mediapipe/tasks-vision@0.10.0";
-
+import { OPENROUTER_KEY } from './config.js';
 
 
 
