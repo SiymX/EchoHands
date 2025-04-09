@@ -67,8 +67,8 @@ The chatbot is responsive and visually accessible with support for font and colo
 
 ## 🙏 Credits
 
-**Designed and Created by The Khandakar Brothers** 
-**Programming and Art by Khandakar Mahin**
-**Backend, Cleanup, and Staged by Khandakar Sayeem**
-**Influenced by June Kim**
+- **Designed and Created by The Khandakar Brothers** 
+- **Programming and Art by Khandakar Mahin**
+- **Backend, Cleanup, and Staged by Khandakar Sayeem**
+- **Influenced by June Kim**
 
