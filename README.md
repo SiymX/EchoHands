@@ -1,5 +1,5 @@
 # ✋ EchoHands: ASL Typing Powered by AI  
-[🌐 Live Website](https://siymx.github.io/EchoHands/](https://echohands.kmahin.co/))
+[🌐 Live Website](https://echohands.kmahin.co/)
 
 ---
 
