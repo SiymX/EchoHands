@@ -1,3 +1,8 @@
+
+![Status](https://img.shields.io/badge/status-in%20development-yellow)
+![Built with React](https://img.shields.io/badge/built%20with-React-blue)
+![Built with TensorFlow.js](https://img.shields.io/badge/TensorFlow.js-Enabled-orange)
+
 # ✋ EchoHands: ASL Typing Powered by AI  
 [🌐 Live Website](https://echohands.kmahin.co/)
 
